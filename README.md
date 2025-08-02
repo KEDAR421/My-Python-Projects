@@ -1,10 +1,10 @@
 # My-Python-Projects
 A collection of Python scripts for practicing Digital Signal Processing (DSP), symbolic math, and data analysis. Uses libraries like NumPy, Pandas, Matplotlib, SciPy, and SymPy.
 
-Python for Digital Signal Processing & Data Analysis
+#Python for Digital Signal Processing & Data Analysis
 This repository is a collection of my Python scripts and assignments from my studies in Digital Signal Processing (DSP) and related numerical methods. It includes implementations of fundamental concepts, demonstrating the use of powerful scientific and data analysis libraries.
 
-Key Topics Covered
+##Key Topics Covered
 Signal Operations:
 
 Addition and multiplication of discrete-time signals with different time axes.
