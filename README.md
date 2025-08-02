@@ -40,4 +40,5 @@ SciPy: For advanced signal processing functions like FFT and resampling.
 
 How to Use
 Each .py file is a standalone script that can be run from the command line to see the output or generate plots. Ensure you have the required libraries installed:
+
 pip install numpy pandas matplotlib scipy
