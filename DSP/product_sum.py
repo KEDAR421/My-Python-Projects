@@ -1,0 +1,10 @@
+n=234
+rem=234%10
+sum=0
+product=1
+while(n>1):
+    rem=n%10
+    n=n//10
+    sum=sum+rem
+    product=product*rem
+print(product-sum)
